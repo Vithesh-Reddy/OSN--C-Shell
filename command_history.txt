@@ -1,0 +1,15 @@
+ls z
+cat < test1.txt | wc -l > lines1.txt
+gedit 
+jobs
+fg 1
+sleep 15 &
+sleep 5
+jobs
+gedit
+jobs
+bg 3
+jobs
+sig 3 9
+ls shell 
+ls shell -l
